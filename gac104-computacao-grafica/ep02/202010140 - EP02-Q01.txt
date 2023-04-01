@@ -1,0 +1,10 @@
+S/O: Linux (Ubuntu/Debian)
+
+Comando para compilar: 
+	- g++ -c -Wall 202010140\ -\ EP02-Q01.cpp 
+
+Comando para construir:
+	- g++ 202010140\ -\ EP02-Q01.o -lGL -lglut -lGLU -o ep02
+
+Comando para executar:
+	- ./ep02

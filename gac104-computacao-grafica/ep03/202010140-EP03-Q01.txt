@@ -1,0 +1,5 @@
+Comandos para executar o código:
+
+    $ g++ -c 202010140-EP03-Q01.c
+    $ g++ 202010140-EP03-Q01.o -lGL -lglut -lGLU -o <nome-executável>
+    $ ./<nome-executável>

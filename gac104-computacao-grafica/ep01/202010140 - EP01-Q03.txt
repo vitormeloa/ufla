@@ -1,0 +1,15 @@
+Nesse exercício implementei a função KeyboardFunc no intuito de 
+conseguir alterar a perspectiva da casa, e nela, fiz uma lógica que,
+ao clicar na tecla 'P' do teclado, a variável op, que é inicializada
+com o valor inteiro 1, é multiplicada por -1, e na função de ChangeSize,
+faço uma verificação, caso a variável op tenha valor 1, ela cai no gluPerspective,
+com a perspectiva inicial da casa, caso seu valor não seja 1, ela muda a 
+perspectiva, e ao clicar em P novamente (com valor da variável setado em -1), ele
+é multiplicado por -1, o que faz com que o valor da variavel volte a valer 1,
+e se enquadrar novamente na verificação da função ChangeSize, e voltar pra perspectiva
+inicial. Também implementei uma verificação, que pega a variável cont, que é iniciada
+com valor 0, e verifica se seu valor é menor ou igual a 10, enquanto for menor, entra 
+na condição e incrementa 1 no valor da variável, e aumenta a distancia da visão (tira
+o zoom), e quando essa variável atinge o valor maior que 10, a distancia é decrementada,
+(aplica o zoom) e a variável é acrescentada, até que chegue no valor 20, que é quando é
+feita uma verificação pra zerar o valor da variável novamente.

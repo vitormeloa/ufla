@@ -1,0 +1,6 @@
+Foi utilizado OpenGL 4.6.0 - Build 27.20.100.9664, seguindo recomendações de instalação
+da internet, juntamente com msys2 & freeglut, no SO Windows 11, e implementado em uma
+arquitetura Intel(R) UHD Graphics 620.
+
+O programa contém um quarto com uma porta, janela, cama, um criado-mudo, cômoda,
+e guarda-roupas. 

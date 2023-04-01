@@ -1,0 +1,17 @@
+S: Permanganato de Potassio | #4211447F
+S: Agua Oxigenada | #EEEEEE22
+S: Vinagre | #EEEEEE22
+S: Manganes | #EEEEEE22
+S: Permanganato e Vinagre | #4211447F
+S: Antocianina Basica | #ABC3D17F
+S: Antocianina | #4211447F
+S: Bicarbonato | #44444444
+S: Antocianina Muito Basica | #A0C4E57F
+S: Antocianina Acida | #F3CDFC7F
+S: Sal Amoniaco | #EEEEEE22
+
+R: Permanganato de Potassio + Vinagre = Permanganato e Vinagre | 5s
+R: Permanganato e Vinagre + Agua Oxigenada = Manganes | 5s
+R: Antocianina + Bicarbonato = Antocianina Basica | 5s
+R: Antocianina + Vinagre = Antocianina Acida | 5s
+R: Antocianina + Sal Amoniaco = Antocianina Muito Basica | 5s
